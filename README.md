@@ -2,10 +2,10 @@
 I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in web development, C#, and algorithms.
 
 ## 💻 Technologies and Tools
-1. Arduino IDE
-2. C#
-3. HTML, CSS, JavaScript
-4. Cyber Security
+- Arduino IDE
+- C#
+- HTML, CSS, JavaScript
+- Cyber Security
 
 ## 🌱 Currently Learning
 * Advanced web development techniques
