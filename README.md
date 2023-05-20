@@ -18,3 +18,14 @@ I'm always looking to connect with like-minded individuals to work on coding pro
 ## 📫 How to Reach Me
 * Discord: Aдamoss#9254
 * Mail:  [altadamoss@gmail.com](user@example.com)
+
+
+
+
+### TODO
+1. Create ShowCase webpage
+2. Upload all arduino projects
+3. Improve Synapse Entertaiment
+4. Improve (re-code) whole CSGO-MapChooser
+5. Improve DiskKebaber
+6. Add Minecraft Server Menager app
