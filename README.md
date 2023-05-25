@@ -29,3 +29,6 @@ I'm always looking to connect with like-minded individuals to work on coding pro
 4. Improve (re-code) whole CSGO-MapChooser
 5. Improve DiskKebaber
 6. Add Minecraft Server Menager app
+7. Update wifi_grabber
+8. Create wpf or winui3 app for time controlling someone pc
+9. Convert wifi grabber to wpf or winui3
