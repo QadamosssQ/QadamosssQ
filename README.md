@@ -11,6 +11,7 @@ I'm a self and school-taught programmer who enjoys working with the Arduino IDE,
 * Advanced web development techniques
 * Data structures and algorithms
 * Software design principles
+* WinUI 3
 
 ## 🤝 Looking to Collaborate
 I'm always looking to connect with like-minded individuals to work on coding projects together. If you're interested in collaborating, feel free to reach out!
@@ -22,7 +23,7 @@ I'm always looking to connect with like-minded individuals to work on coding pro
 
 
 
-### TODO
+### TODO soon
 1. Create ShowCase webpage
 2. Upload all arduino projects
 3. Improve Synapse Entertaiment
