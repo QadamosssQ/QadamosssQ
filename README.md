@@ -17,7 +17,7 @@ I'm a self and school-taught programmer who enjoys working with the Arduino IDE,
 I'm always looking to connect with like-minded individuals to work on coding projects together. If you're interested in collaborating, feel free to reach out!
 
 ## 📫 How to Reach Me
-* Discord: Aдamoss#9254
+* Discord: Aдãmoss#9254
 * Mail:  [altadamoss@gmail.com](user@example.com)
 
 
