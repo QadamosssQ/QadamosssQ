@@ -2,34 +2,41 @@
 I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in web development, C#, and algorithms.
 
 ## 💻 Technologies and Tools
-- Arduino IDE
-- C#
-- HTML, CSS, JavaScript
+- Languages: 
+   ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-lightgrey?logo=arduino&logoColor=white&style=flat)
+   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
+   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+   ![XAML](https://img.shields.io/badge/-XAML-purple?logo=xaml&logoColor=white&style=flat)
+   ![C#](https://img.shields.io/badge/-C%23-blue)
+   ![SQL](https://img.shields.io/badge/-SQL-red?logo=sql&logoColor=white&style=flat)
+
 - Cyber Security
+- Networks
+- Video editing
 
 ## 🌱 Currently Learning
-* Advanced web development techniques
-* Data structures and algorithms
-* Software design principles
-* WinUI 3
+* React
+* WinUI 3 and Wpf UI
+* Xaml and C#
+* Cyber Security
+* Interaction PC-Arduino
+* Hardware 
 
 ## 🤝 Looking to Collaborate
 I'm always looking to connect with like-minded individuals to work on coding projects together. If you're interested in collaborating, feel free to reach out!
 
 ## 📫 How to Reach Me
 * Discord: Aдãmoss#9254
-* Mail:  [altadamoss@gmail.com](user@example.com)
-
-
-
+* Mail: altadamoss@gmail.com
 
 ### TODO soon
-1. Create ShowCase webpage
-2. Upload all arduino projects
-3. Improve Synapse Entertaiment
-4. Improve (re-code) whole CSGO-MapChooser
+1. Create Showcase webpage
+2. Upload all Arduino projects
+3. Improve Synapse Entertainment
+4. Improve (re-code) the whole CSGO-MapChooser
 5. Improve DiskKebaber
-6. Add Minecraft Server Menager app
+6. Add Minecraft Server Manager app
 7. Update wifi_grabber
-8. Create wpf or winui3 app for time controlling someone pc
-9. Convert wifi grabber to wpf or winui3
+8. Create WPF or WinUI3 app for time controlling someone's PC
+9. Improve wifiGrabberGRAPHIC
