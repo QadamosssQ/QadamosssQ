@@ -1,12 +1,12 @@
 # Hi, I'm Adamoss! 👋
 I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in web development, C#, and algorithms.
 
-## 💻 Technologies and Tools
+## 💻 Technologies and Languages
 - Languages: 
-   ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-lightgrey?logo=arduino&logoColor=white&style=flat)
+   ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-1d9b9f?logo=arduino&logoColor=white&style=flat)
    ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
    ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+   ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&logoColor=white&style=flat)
    ![XAML](https://img.shields.io/badge/-XAML-purple?logo=xaml&logoColor=white&style=flat)
    ![C#](https://img.shields.io/badge/-C%23-blue)
    ![SQL](https://img.shields.io/badge/-SQL-red?logo=sql&logoColor=white&style=flat)
