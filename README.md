@@ -1,4 +1,5 @@
-# Hi, I'm Adamoss! 👋
+# Hi, I'm Adamoss! ![Profile picture](img/profile.png)
+
 I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in web development, C#, and algorithms.
 
 ## 💻 Technologies and Languages
