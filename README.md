@@ -36,12 +36,14 @@ I'm always looking to connect with like-minded individuals to work on coding pro
 ### TODO soon
 1. Create Showcase webpage
 2. Upload all Arduino projects
-3. Improve Synapse Entertainment
-4. Improve (re-code) the whole CSGO-MapChooser
-5. Improve DiskKebaber
+3. Synapse_Entertainment General impovment
+4. CSGO-MapChooser Improve (re-code) the whole 
+5. DiskKebaber General impovment
 6. Add Minecraft Server Manager app
-7. Update wifi_grabber
+7. wifi_grabber General update
 8. Create WPF or WinUI3 app for time controlling someone's PC
-9. Improve wifiGrabberGRAPHIC
-10. Turn DiskKebaber to low level ransomware (legal)
-11. In KeyGrapper make database server to store users keys 
+9. wifiGrabberGRAPHIC General impovment
+10. DiskKebaber Turn to low level ransomware (legal)
+11. KeyGrapper Make database server to store users keys 
+12. KeyGrapper Improve end task communicate 
+
