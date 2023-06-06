@@ -43,5 +43,5 @@ I'm always looking to connect with like-minded individuals to work on coding pro
 7. Update wifi_grabber
 8. Create WPF or WinUI3 app for time controlling someone's PC
 9. Improve wifiGrabberGRAPHIC
-10. Continue KeyLogger project
-11. Turn DiskKebaber to low level ransomware (legal)
+10. Turn DiskKebaber to low level ransomware (legal)
+11. In KeyGrapper make database server to store users keys 
