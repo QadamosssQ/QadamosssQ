@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adamoss!    <img src="img/pro_file.png" alt="profile" style="margin-bottom: -15px;"><p></p> </h1>
+<h1>Hi, I'm MSAdamoss!    <img src="img/pro_file.png" alt="profile" style="margin-bottom: -15px;"><p></p> </h1>
 
 I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in apps development, C#, and cyber security.
 
