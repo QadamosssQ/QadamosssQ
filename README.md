@@ -1,49 +1,39 @@
-<h1>Hi, I'm MSAdamoss!    <img src="img/pro_file.png" alt="profile" style="margin-bottom: -15px;"><p></p> </h1>
+<h1 align="center">Hi 👋, I'm MSAdamoss</h1>
+<h3 align="center">I am student high level engineers and learning low especially arduino for IOT</h3>
 
-I'm a self and school-taught programmer who enjoys working with the Arduino IDE, developing websites, and learning new programming languages. Currently, I'm focused on improving my skills in apps development, C#, and cyber security.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qadamosssq&label=Profile%20views&color=0e75b6&style=flat" alt="qadamosssq" /> </p>
 
-## 💻 Technologies and Languages
-- Languages: 
-   ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-1d9b9f?logo=arduino&logoColor=white&style=flat)
-   ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=flat)
-   ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)
-   ![JS](https://img.shields.io/badge/-JS-yellow?logo=javascript&logoColor=white&style=flat)
-   ![XAML](https://img.shields.io/badge/-XAML-purple?logo=xaml&logoColor=white&style=flat)
-   ![C#](https://img.shields.io/badge/-C%23-blue)
-   ![SQL](https://img.shields.io/badge/-SQL-red?logo=sql&logoColor=white&style=flat)
-   [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+- 🔭 I’m currently working on [Smart Home System](https://github.com/QadamosssQ/SmartHomeSystem)
 
+- 🌱 I’m currently learning **React, Python, CyberSecurity, 3d modeling**
 
-- Cyber Security
-- Networks
-- Video editing
+- 📟 I’m making multiple arduino projects [ArduinoProjects](https://github.com/QadamosssQ/ArduinoProjects)
 
-## 🌱 Currently Learning
-* React
-* WinUI 3 and Wpf UI
-* Xaml and C#
-* Cyber Security
-* Interaction PC-Arduino
-* Hardware 
+- 🤝 I’m looking for help with **c# apps and api's**
 
-## 🤝 Looking to Collaborate
-I'm always looking to connect with like-minded individuals to work on coding projects together. If you're interested in collaborating, feel free to reach out!
+- 👨‍💻 All of my projects are available at [https://github.com/QadamosssQ](https://github.com/QadamosssQ)
 
-## 📫 How to Reach Me
-* Discord: Aдãmoss#9254
-* Mail: altadamoss@gmail.com
+- 📷 I am amateur photographer [https://www.instagram.com/el_adamosso/](https://www.instagram.com/el_adamosso/)
 
-### TODO soon
-1. Create Showcase webpage
-2. Upload all Arduino projects
-3. (Synapse_Entertainment) General impovment
-4. (CSGO-MapChooser) Improve (re-code) the whole 
-5. DiskKebaber) General impovment
-6. (Add Minecraft) Server Manager app
-7. (wifi_grabber) General update
-8. Create WPF or WinUI3 app for time controlling someone's PC
-9. (wifiGrabberGRAPHIC) General impovment
-10. (DiskKebaber) Turn to low level ransomware (legal)
-11. (KeyGrapper) Make database server to store users keys 
-12. (KeyGrapper) Improve end task communicate 
+- 💬 Ask me about **Arduino and plans for buisness by makeing IOT's**
 
+- 📫 How to reach me **adamoss.corps@gmail.com**
+
+- 📄 Portfolio webpage (in progress) [https://synapse-entertainment.zsti.me/](https://synapse-entertainment.zsti.me/)
+
+- ⚡ Fun fact **I love taking risks**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/el_adamosso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_adamosso" height="30" width="40" /></a>
+<a href="https://discord.gg/qadamosssq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qadamosssq" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qadamosssq&show_icons=true&locale=en&layout=compact" alt="qadamosssq" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qadamosssq&show_icons=true&locale=en" alt="qadamosssq" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qadamosssq&" alt="qadamosssq" /></p>
