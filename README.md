@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MSAdamoss</h1>
-<h3 align="center">I am student high level engineers and learning low especially arduino for IOT</h3>
+<h3 align="center">I am student and I am making IOT devices from Arduino, Raspberry Pi and other</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qadamosssq&label=Profile%20views&color=0e75b6&style=flat" alt="qadamosssq" /> </p>
 
 - 🔭 I’m currently working on [Smart Home System](https://github.com/QadamosssQ/SmartHomeSystem)
 
-- 🌱 I’m currently learning **React, Python, CyberSecurity, 3d modeling**
+- 🌱 I’m currently learning **Python, CyberSecurity, 3d modeling**
 
 - 📟 I’m making multiple arduino projects [ArduinoProjects](https://github.com/QadamosssQ/ArduinoProjects)
 
